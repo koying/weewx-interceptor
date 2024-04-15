@@ -771,6 +771,7 @@ class WUClient(Consumer):
             'soilmoisture4': 'soil_moisture_4',
             'leafwetness': 'leafwetness_1',
             'solarradiation': 'solar_radiation',
+            'solarRadiation': 'solar_radiation',
             'UV': 'uv',
             'visibility': 'visibility',
             'indoortempf': 'temperature_in',
